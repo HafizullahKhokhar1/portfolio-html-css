@@ -15,7 +15,7 @@ Welcome to my portfolio website! This project was built using **HTML** and **CSS
 - **Google Fonts (Poppins)**
 
 ## Screenshots
-![Portfolio Screenshot](assets/screenshot.png)
+![Portfolio Screenshot](image.png)
 
 ## How to View
 [Live Demo](https://hafizullahkhokhar1.github.io/portfolio-html-css/)
