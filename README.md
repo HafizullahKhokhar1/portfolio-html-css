@@ -18,7 +18,7 @@ Welcome to my portfolio website! This project was built using **HTML** and **CSS
 ![Portfolio Screenshot](assets/screenshot.png)
 
 ## How to View
-[Live Demo](https://your-live-site-url.com)
+[Live Demo](https://hafizullahkhokhar1.github.io/portfolio-html-css/)
 
 ## Contact Me
 Feel free to explore the site and reach out via the **Hafizullahkhokhar1** handle on any social media or email me at `mjaftab111@gmail.com`.
